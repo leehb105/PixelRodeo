@@ -11,15 +11,12 @@ PixelRodeo
 ### 테스트 환경
 - Device - PC Window 10   
 
-### 룰
+### 조작법 및 룰
 1. 좌, 우 키를 사용해 플레이어를 움직인다.
 2. 스페이스 바를 이용하면 점프
 3. 동물에 탑승 시 컨트롤 키를 사용해 갈아 탈 수 있다.
 4. 아이템을 먹거나 동물에 탑승하면 점수를 더 얻을 수 있다.
-5. 최고 점수를 갱신해 더 높은 기록을 세울 수 있다.    
- 
-### 조작법
-<img src="https://github.com/leehb105/ARHalliGalli/blob/main/Assets/GitImages/rule.png" width="60%" height="50%" title="px(픽셀) 크기 설정" alt="image"></img>  
+5. 최고 점수를 갱신해 더 높은 기록을 세울 수 있다.     
 
 ### 이미지
 //추가예정
