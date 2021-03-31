@@ -1,10 +1,10 @@
-# PixelRodeo
+PixelRodeo
 ============
 >동물을 타고 달리는 무한 레이스 어드벤처 게임   
->>*장애물을 피해 아이템을 먹고 동물에 탑승하자!    
->>동물을 갈아타면 더 높은 점수를 받을 수 있다.*
+>>*'장애물을 피해 아이템을 먹고 동물에 탑승하자!    
+>>동물을 갈아타면 더 높은 점수를 받을 수 있다.'*
 
-<img src="https://github.com/leehb105/ARHalliGalli/blob/main/Assets/GitImages/main.PNG" width="60%" height="50%" title="px(픽셀) 크기 설정" alt="image"></img>   
+<img src="https://github.com/leehb105/PixelRodeo/blob/main/Assets/GitImages/main.png" width="60%" height="50%" title="px(픽셀) 크기 설정" alt="image"></img>   
 
 ## 게임 개요
 
