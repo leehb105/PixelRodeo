@@ -19,8 +19,8 @@ PixelRodeo
 5. 최고 점수를 갱신해 더 높은 기록을 세울 수 있다.     
 
 ### 스틸컷
-<img src="https://github.com/leehb105/PixelRodeo/blob/main/Assets/GitImages/game1.png" width="60%" height="50%" title="px(픽셀) 크기 설정" alt="image"></img> 
-<img src="https://github.com/leehb105/PixelRodeo/blob/main/Assets/GitImages/game2.png" width="60%" height="50%" title="px(픽셀) 크기 설정" alt="image"></img>  
+<img src="https://github.com/leehb105/PixelRodeo/blob/main/Assets/GitImages/game1.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="image"></img> 
+<img src="https://github.com/leehb105/PixelRodeo/blob/main/Assets/GitImages/game2.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="image"></img>  
 
 ## 프로젝트 개요
 - 모바일 게임 '로데오 스템피드'를 모티브로 만든 레이싱 게임
@@ -32,4 +32,4 @@ PixelRodeo
 - 구현된 점: 디자인패턴 적용(Singleton)
 
 ### 영상 
-[<img src="https://github.com/leehb105/PixelRodeo/blob/main/Assets/GitImages/main.png" width="30%" height="20%" title="px(픽셀) 크기 설정" alt="image">](https://www.youtube.com/embed/mbvSVavpNUI)
+[<img src="https://github.com/leehb105/PixelRodeo/blob/main/Assets/GitImages/main.png" width="60%" height="50%" title="px(픽셀) 크기 설정" alt="image">](https://www.youtube.com/embed/mbvSVavpNUI)
